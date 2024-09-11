@@ -25,7 +25,7 @@ void testPairToNumber(
 
 void testPrintedPairs()
 {
-    auto colorPair = TelCoColorCoder::PrintColorPair();
+    TelCoColorCoder::PrintColorPair();
 }
 
 int main()
